@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tanvansh
-- 👀 I’m interested in ... game development and machine learning
-- 🌱 I’m currently learning ... game development and coding
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...  Machine learning / AI and CyberSecurity
+- 💞️ I’m looking to collaborate on ...Artificial Intelligence Models
 - 📫 How to reach me ... tanvansh2003@gmail.com
 
 <!---
